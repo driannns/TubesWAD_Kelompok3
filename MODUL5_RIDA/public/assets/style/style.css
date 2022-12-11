@@ -1,0 +1,27 @@
+.tambah{
+    width: 900px;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 25%;
+    left:13%;
+    /* margin-left:-450px; */
+    /* margin: auto; */
+    
+}
+
+h1{
+    font-weight: 800;
+}
+.nama{
+    width: 300px;
+    margin-top: 50px;
+    position:relative;
+    bottom: 1px;
+    display: flex;
+}
+
+.logo{
+    padding-right: 20px;
+}
